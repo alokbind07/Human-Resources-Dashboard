@@ -22,3 +22,48 @@ Understand employee demographics and salary distribution.
 Correlate education, performance, and income data.
 
 Access individual employee records for detailed insights.
+
+# 🧠Key Visuals Walkthrough
+
+1. Overview Section
+
+Displays total hired, active, and terminated employees.
+
+Line charts show hiring and termination trends over time.
+
+Department-wise employee distribution (Operations, Sales, IT, etc.).
+
+Comparison between Headquarters (New York) and branch locations.
+
+Map visualization showing employee distribution by state and city.
+
+
+2. Demographics Section
+
+Gender ratio visualization for quick gender diversity assessment.
+
+Bubble matrix for Education & Age distribution.
+
+Matrix view connecting Education & Performance, highlighting high-performing groups.
+
+
+3. Income Analysis Section
+
+Comparison of average salary by education level and gender.
+
+Scatter plot showing the correlation between Age and Salary across roles.
+
+Highlights salary ranges for different roles such as IT Manager, HR Assistant, and Finance Manager.
+
+
+4. Employee Records View
+
+A detailed employee table including:
+
+Name, Department, Position
+
+Gender, Age, Education
+
+Salary, and Performance
+
+Fully filterable for targeted analysis.
