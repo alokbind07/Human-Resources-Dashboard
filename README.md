@@ -62,6 +62,12 @@ A detailed employee table including:
 
 Name, Department, Position
 
+Gender, Age, Education
+
+Salary, and Performance
+
+Fully filterable for targeted analysis.
+
 # 💡Key Insights
 
 The majority of employees fall within the 35–44 age group, with most holding a Bachelor’s degree.
@@ -73,12 +79,6 @@ Operations and Sales departments have the largest workforce.
 Gender pay gap is minimal across most education levels, indicating balanced compensation policies.
 
 Hiring trends are steady, but termination rates increased slightly in recent quarters.
-
-Gender, Age, Education
-
-Salary, and Performance
-
-Fully filterable for targeted analysis.
 
 # 📈Business Impact
 
